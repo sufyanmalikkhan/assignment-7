@@ -1,0 +1,314 @@
+/*body{
+    background-color: orangered;
+    text-transform: uppercase;
+}
+div{
+    background-color: aqua;
+    color: black;
+    margin: 50px ;
+    text-align: center;
+    padding: 30px; 
+
+}
+form{
+    box-shadow:10px 10px 10px green ;
+    text-shadow:2px 2px 10px white ;
+}
+fieldset{
+    background-color:purple;
+    color:white;
+}
+legend{
+    background-color: blue;
+    line-height:0px ;
+}
+button{
+    background-color: blue;
+    color: white;
+}*/     
+
+/*body{
+    background-color: brown;
+}
+div{
+    background-color: white;
+    margin: 50px;
+    padding: 30px;
+}
+table,a{
+    width:100%;
+    height: 50px;
+    text-decoration:none;
+}
+td,a{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+h2{
+    word-spacing: 300px;
+    width: 102.5%;
+    text-align: center;
+    background-color: chartreuse;
+    color:red;
+}
+p{
+    background-color: purple;
+    color:white;
+}*/
+
+/*
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ font-family: Arial, Helvetica, sans-serif;   
+}
+body{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.clock{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    background-color: rgb(11, 160, 35);
+    border-radius:50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Number{
+    transform: rotate(calc(30deg * var(--n)));
+    position: absolute;
+    text-align: center;
+    inset: 20px;
+    font-size: 40px;
+}
+.Number b{
+    transform: rotate(calc(-30deg * var(--n)));
+    display: inline-block;
+
+}  
+.center-dot{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    background-color: rgb(47, 240, 79);
+    border-radius: 50%;
+}
+.hour-hand, .minute-hand, .second-hand{
+    --rotate: 0;
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+    transform: translate(-50%) rotate(calc(var(--rotate) * 1deg));
+
+}
+.hour-hand{
+    width: 12px;
+    height: 130px;
+    background-color: black;
+}
+.minute-hand{
+    width: 12px;
+    height: 190px;
+    background-color: blue;
+}
+.second-hand{
+    width: 6px;
+    height: 210px;
+    background-color: red;
+}*/
+/* 
+/* *{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    width: 50px;
+}
+ul>li{
+    display: flex;
+    justify-content: space-around;
+}
+.home{
+    background-color: greenyellow;
+}
+.contact{
+    background-color: aqua;
+}
+.email{
+    background-color: chocolate;
+}
+.google{
+    background-color: darksalmon;
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-image:url("./pictures/flower.webp") ;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    background-color: rgba(255, 255, 255, 0.50);
+    width: 18%;
+    padding: 20px;
+    box-shadow: 6px 6px 6px 6px rgba(255, 255, 255, 0.50) ;
+   
+}
+.style-text{
+    text-transform: uppercase;
+    word-spacing: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
